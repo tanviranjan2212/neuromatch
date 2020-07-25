@@ -1,2 +1,2 @@
 # Neuromatch
-Collection of codes I wrote for a Neuromatch academy project
+A collection of codes I wrote for an Encoding-Decoding Neuromatch academy project.
